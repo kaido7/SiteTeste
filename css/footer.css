@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap');
+
+footer{
+    display: flex;
+    flex-direction: column;
+    min-height: 50vh;
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgb(118, 149, 149);
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+
+.sobre-a-loja{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.contatos{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.contatos a{
+    color: black;
+}
+
+.redes-sociais a img{
+    width: 40px;
+    height: 40px;
+}
+
+.redes-sociais{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}

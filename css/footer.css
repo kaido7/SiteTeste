@@ -6,14 +6,18 @@ footer{
     min-height: 50vh;
     width: 100%;
     border-radius: 20px;
-    background-color: rgb(118, 149, 149);
+    background-color: rgb(126, 129, 129);
     font-family: 'Source Sans 3', sans-serif;
 }
 
 
 .sobre-a-loja{
-    margin: 10px;
+    margin: 20px 10px;
     font-size: 18px;
+}
+
+.sobre-a-loja h2{
+    font-size: 30px;
 }
 
 .contatos{
@@ -23,15 +27,18 @@ footer{
 }
 .contatos a{
     color: black;
+    margin-top: 10px;
 }
 
 .redes-sociais a img{
     width: 40px;
     height: 40px;
+    margin-top: 10px;
+    padding: 5px;
 }
 
 .redes-sociais{
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 20px 10px;
 }

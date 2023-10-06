@@ -104,3 +104,25 @@ main{
 #cadastrar{
     color: green;
 }
+
+
+.conteiner-vermais{
+    display: flex;
+    width: 220px;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteiner-vermais a{
+    background:orange;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(168, 166, 166);
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    border-radius: 5px;
+}

@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+}
+
+.section-card-produto{
+    margin-top: 20px;
+    align-items: center;
+    justify-content: left;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.conteiner-card{
+    width: 190px;
+    margin-bottom: 10px;
+}
